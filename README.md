@@ -19,9 +19,11 @@ This means that if you then send the file to someone else, you can inadvertently
 
 There is a clear warning sign that the file you have opened may have some "hidden extras".
 When you open the spreadsheet file, you will see a warning similar to this one as shown by LibreOffice Calc:
+
 ![A warning message from LibreOffice with the text, "Security Warning: Automatic update of external links has been disabled"](images/Warning.png "Warning message shown by LibreOffice")
 
 If you click "Allow Updating", you will likely see another pop-up for each linked spreadsheet showing that it was unable to restore the link:
+
 ![A pop-up message showing the filepath and filename of the spreadsheet for which the link could not be re-established](images/FileWarning.png "Pop-up message showing the filepath and filename of the spreadsheet for which the link could not be re-established")
 
 As you can see from the pop-up, a linked spreadsheet might be one on a shared drive, and it might contain potentially sensitive data.
